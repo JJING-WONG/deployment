@@ -1,4 +1,4 @@
-import useStore from "./store/store";
+import useStore from "./store/Store";
 import { useState } from "react";
 
 function App() {
